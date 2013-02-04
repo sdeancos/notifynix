@@ -1,7 +1,7 @@
 notifynix.py
 ============
 
-A very simple wrapper of org.freedesktop.Notifications in python
+A very simple wrapper of dbus org.freedesktop.Notifications in python
 
 Usage
 -----
