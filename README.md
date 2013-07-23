@@ -8,5 +8,5 @@ Usage
 
 	from notifynix import notification
 
-	notifiaction_object = notification('notifynix.py')
-	notifiaction_object.notify('Titulo', 'Mensaje', 'gtk-ok')
+	notification_object = notification('notifynix.py')
+	notification_object.notify('Titulo', 'Mensaje', 'gtk-ok')
